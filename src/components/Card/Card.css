@@ -1,0 +1,16 @@
+.image-card {
+  display: block;
+  width: 250px;
+  height: 150px;
+  border: 1px solid #000;
+  box-shadow: 2px 2px 2px;
+  overflow: hidden;
+}
+
+.image-prev {
+  display: block;
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+}
